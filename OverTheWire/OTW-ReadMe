@@ -1,0 +1,29 @@
+Welcome to my tutorials on OverTheWire's Puzzles.
+
+What is OverTheWire? 
+  OverTheWire.org is a series of Wargames(Online CTF's) that progress from beginner to the most advanced. 
+  
+Wargames online (as of December 2017):
+  -Bandit, Entry Level introduces SSH and linux commands
+  -Natas, Basics of Serverside Web-Security
+  -Leviathan, Builds on Linux knowledge
+  -Krypton, Intro to Cryptography
+  -Narnia, Intro to Explotation
+  -Behemoth, Exploiting common Vulnerabilities
+  -Utumo, builds on Leviathian And Behemoth
+  -Maze, 
+  -Vortex,
+  -Semtex,
+  -Manpage,
+  -Drifter,
+  
+Suggested play order:
+  1. Bandit
+  2. Natas or Leviathan or Krypton
+  3. Narnia
+  4. Behemoth
+  5. Utumo
+  6. Maze
+  7. Any of the others
+  
+Go see for yourself at OverTheWire.org.
