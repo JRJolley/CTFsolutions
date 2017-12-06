@@ -22,3 +22,4 @@ In terminal:
     
 And we get the password for Level 1. 
 > boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+ 
