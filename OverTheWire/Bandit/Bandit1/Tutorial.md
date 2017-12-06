@@ -9,22 +9,16 @@ Before we begin let me introduce "ls" the linux command for listing whats in the
 As in Bandit0 we can use "cat -" to read the file, except it wont work. Linux wont recognize "-" as a file because it is a special character. To get around this I've found a few different ways.
 
 Option #1: Qoutes
-    By putting anything in qoutes, terminal will read it as a string. Then by using 'cat "Something"' terminal will treat that
-    something as string and see if there is a file with a matching string name.
+
+By putting anything in qoutes, terminal will read it as a string. Then by using 'cat "Something"' terminal will treat that something as string and see if there is a file with a matching string name.
     
-    ```
-     ~$ cat "-" 
-    ```
+    ~$ cat "-" 
     
 Option #2: Understanding ./-
-    In the Linux file structure . refers to the current directory and .. refers to the directory one level up (the direcotry that
-    the current directory is in). By using ./something terminal will look in the current directory for something. We can also use
-    ~ to reference root, or base level. In more advanced useage we can quickly reference other files by referring to them in the
-    directory/subdirectory/file way.
+
+In the Linux file structure `.` refers to the current directory and `..` refers to the directory one level up (the directory that the current directory belongs to). By using `./something` terminal will look in the current directory for something. We can also use `~` to reference root, or base level. In more advanced useage, we can quickly reference other files by referring to them in the directory/subdirectory/file way.
     
-    ```
-     ~$ cat ./- 
-    ```
+    ~$ cat ./- 
     
 Terminal should then spit out the password for Bandit2.
     `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
