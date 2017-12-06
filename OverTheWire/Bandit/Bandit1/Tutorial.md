@@ -12,7 +12,7 @@ Option #1: Qoutes
     By putting anything in qoutes, terminal will read it as a string. Then by using 'cat "Something"' terminal will treat that
     something as string and see if there is a file with a matching string name.
     
-    `~$ cat "-"`
+    ` ~$ cat "-" `
     
 Option #2: Understanding ./-
     In the Linux file structure . refers to the current directory and .. refers to the directory one level up (the direcotry that
@@ -20,7 +20,7 @@ Option #2: Understanding ./-
     ~ to reference root, or base level. In more advanced useage we can quickly reference other files by referring to them in the
     directory/subdirectory/file way.
     
-    `~$ cat ./-`
+    ` ~$ cat ./- `
     
 Terminal should then spit out the password for Bandit2.
     CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
