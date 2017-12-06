@@ -1,3 +1,5 @@
 `ssh bandit.labs.overthewire.org -p 2220 -l bandit0`
->password: bandit0
+
+>password: bandit0 
+
 `cat readme`
