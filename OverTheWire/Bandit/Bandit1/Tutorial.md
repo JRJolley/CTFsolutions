@@ -20,7 +20,7 @@ Option #2: Understanding ./-
     ~ to reference root, or base level. In more advanced useage we can quickly reference other files by referring to them in the
     directory/subdirectory/file way.
     
-    ` ~$ cat ./- `
+     `~$ cat ./- `
     
 Terminal should then spit out the password for Bandit2.
-    CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+    `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
