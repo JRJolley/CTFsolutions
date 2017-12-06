@@ -15,7 +15,7 @@ The flag `-l Bandit0` specifies which user we are logging in as.
 
 If you are using Putty this should all be in the GUI interface.
 
-Next our task is to read a file that contains the passcode to Bandit1. The file is stored as readme. The most straightforward way to do this is to use "cat" (the linux command for concatenate) which will print the files contents to the screen.
+Next our task is to read a file that contains the passcode to Bandit1. The file is stored as readme. The most straightforward way to do this is to use `cat` (the linux command for concatenate) which will print the files contents to the screen.
 
 In terminal:
     `$ cat readme`
