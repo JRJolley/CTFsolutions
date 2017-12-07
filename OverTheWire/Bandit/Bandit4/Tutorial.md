@@ -1,4 +1,4 @@
-Exact Instructions and helpful reading material over at http://overthewire.org/wargames/bandit/bandit4.html.
+Exact Instructions and helpful reading material over at http://overthewire.org/wargames/bandit/bandit5.html.
 
 >Previous Tutorials Password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
