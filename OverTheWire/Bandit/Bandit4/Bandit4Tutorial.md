@@ -14,18 +14,26 @@ Let's begin our challenge. We need to find the only file that is human readable.
 >inhere
 `ls -a`
 >./-file00
+
 >./-file01
+
 >./-file02
+
 >./-file03
+
 >./-file04
+
 And so on..
 
 What we can do is run `file ./-*`. The `*` is called the wildcard character, it will let any character or string of characters complete the command, showing us the results of **all** the files that start with `./-`.
 
 `file ./-*`
 >./-file00: data
+
 >./-file01: data
+
 ....
 >./-file07: ASCII text
+
 `cat ./-file07`
 >koReBOKuIDDepwhWk7jZC0RTdopnAYKh
